@@ -1,8 +1,8 @@
 # php-cmt4rt (comments for RT)
 
-エアリプをコンソールに表示するPHPスクリプトです。
 コンソールから使います。
 指定したリツイートに対するコメント（エアリプ）っぽいものを探して表示します。
+
 
 ## 事前準備
 
@@ -64,3 +64,13 @@ http://esuji5.hateblo.jp/entry/2014/04/01/233633
 
 * PHP - Guzzle で Twitter REST API を叩く - Qiita
 http://qiita.com/kawanamiyuu/items/2cab57e3d3932a2c5e4e
+
+* API Rate Limits | Twitter Developers
+https://dev.twitter.com/rest/public/rate-limiting
+
+* GET statuses/retweets/:id | Twitter Developers
+https://dev.twitter.com/rest/reference/get/statuses/retweets/%3Aid
+
+* GET statuses/user_timeline | Twitter Developers
+https://dev.twitter.com/rest/reference/get/statuses/user_timeline
+
