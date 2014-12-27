@@ -1,0 +1,6 @@
+# (1) Create following tokens on https://apps.twitter.com
+# (2) Rename this file as keys.ini
+consumer_key=
+consumer_secret=
+access_token=
+access_token_secret=
